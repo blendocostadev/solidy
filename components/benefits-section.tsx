@@ -15,7 +15,7 @@ export function BenefitsSection() {
     {
       icon: Truck,
       title: "Veículo Reserva",
-      description: "Carro substituto para você não ficar sem transporte",
+      description: "Veículo reserva para você não ficar sem transporte",
     },
     {
       icon: Users,
@@ -35,7 +35,7 @@ export function BenefitsSection() {
     {
       icon: Wrench,
       title: "Guincho Ilimitado",
-      description: "Socorro mecânico e reboque sem limite de quilometragem",
+      description: "Socorro sem limite de quilometragem para casos de colisão",
     },
     {
       icon: MapPin,
@@ -89,7 +89,7 @@ export function BenefitsSection() {
                     <td className="text-center py-4 px-4 text-muted-foreground">✗</td>
                   </tr>
                   <tr className="border-b border-border">
-                    <td className="py-4 px-4 text-card-foreground">Sem franquia</td>
+                    <td className="py-4 px-4 text-card-foreground">Proteção contra desastres naturais</td>
                     <td className="text-center py-4 px-4 text-primary">✓</td>
                     <td className="text-center py-4 px-4 text-muted-foreground">✗</td>
                   </tr>

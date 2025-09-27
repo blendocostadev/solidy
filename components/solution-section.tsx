@@ -37,7 +37,7 @@ export function SolutionSection() {
                 <div className="flex items-start gap-4">
                   <CheckCircle className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
                   <div>
-                    <h4 className="text-lg font-semibold text-card-foreground mb-2">Carro reserva na hora</h4>
+                    <h4 className="text-lg font-semibold text-card-foreground mb-2">Veículo reserva na hora</h4>
                     <p className="text-muted-foreground">
                       Não fica sem transporte nem um dia. Enquanto resolve tudo, você tem um veículo para usar
                       normalmente.

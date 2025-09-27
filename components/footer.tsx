@@ -41,15 +41,15 @@ export function Footer() {
               <div className="space-y-3 text-sm text-muted-foreground">
                 <div className="flex items-center gap-2">
                   <Phone className="w-4 h-4" />
-                  <span>0800 123 4567</span>
+                  <span>91 98440-9973</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail className="w-4 h-4" />
-                  <span>contato@solidy.com.br</span>
+                  <span>blendocostagestor@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="w-4 h-4" />
-                  <span>São Paulo, SP</span>
+                  <span>Belém, PA</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Instagram className="w-4 h-4" />

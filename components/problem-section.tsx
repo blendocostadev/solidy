@@ -18,7 +18,7 @@ export function ProblemSection() {
             <div className="flex items-start gap-4 mb-6">
               <AlertTriangle className="w-8 h-8 text-destructive flex-shrink-0 mt-1" />
               <div>
-                <h3 className="text-2xl font-bold text-foreground mb-4">Seu carro não está mais lá.</h3>
+                <h3 className="text-2xl font-bold text-foreground mb-4">Seu veículo não está mais lá.</h3>
                 <p className="text-lg text-muted-foreground leading-relaxed">
                   Roubado. Sumiu. E agora? Você ainda deve 36 parcelas do financiamento, precisa trabalhar amanhã, tem
                   compromissos, filhos para levar na escola...
@@ -63,7 +63,7 @@ export function ProblemSection() {
               <Clock className="w-12 h-12 text-destructive mx-auto mb-4" />
               <h4 className="text-xl font-semibold text-foreground mb-3">Tempo Perdido</h4>
               <p className="text-muted-foreground">
-                Boletim de ocorrência, burocracia com seguro, procurar carro novo... Meses de dor de cabeça.
+                Boletim de ocorrência, burocracia com seguro, procurar veiculo novo... Meses de dor de cabeça.
               </p>
             </div>
           </div>

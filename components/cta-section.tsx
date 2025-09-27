@@ -24,7 +24,7 @@ Placa: ${formData.placa || "Não informado"}
 
 Aguardo retorno!`
 
-    const whatsappUrl = `https://wa.me/5511999999999?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/5591984409973?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
 
@@ -66,7 +66,7 @@ Aguardo retorno!`
                 onChange={(e) => setFormData({ ...formData, contato: e.target.value })}
               />
               <Input
-                placeholder="Veículo (marca/modelo/ano)"
+                placeholder="Tipo de Veículo"
                 className="bg-background border-border"
                 value={formData.veiculo}
                 onChange={(e) => setFormData({ ...formData, veiculo: e.target.value })}
