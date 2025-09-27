@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "Solidy Benefícios - Proteção Veicular Completa",
   description:
     "Proteção veicular com cobertura 100% da tabela FIPE, assistência 24h e muito mais. Mensalidade a partir de R$ 79,99.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
